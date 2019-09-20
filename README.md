@@ -1,5 +1,6 @@
-# Market-Basket-Analysis-and-Recommendation-System
+#Marketing Analytics
 ***
+### Market-Basket-Analysis-and-Recommendation-System
 `Market basket analysis` is the process of discovering frequent item sets in large transactional database.
 <br>`Recomendation System` is algorithm that seeks to predict the '*rating*' or '*preference*' a user would give to an item
 ### List of Source Code in the folder code : 
